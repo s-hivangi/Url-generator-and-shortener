@@ -15,10 +15,3 @@ Node.js
 MongoDB  
 Docker  
 Kubernetes (Optional)  
-
-🚀 How to Use
-Clone this repo  
-Install dependencies: npm install  
-Configure .env file  
-Run locally: node app.js  
-Use Postman to test API endpoints  
